@@ -1,6 +1,5 @@
 {
   "name": "beaconhq/beacon-laravel",
-  "version": "1.0.0",
   "description": "Beacon Laravel SDK — error tracking for Laravel applications",
   "type": "library",
   "license": "MIT",
